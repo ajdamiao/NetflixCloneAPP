@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">NetflixClone</string>
+    <string name="email">Email</string>
+    <string name="senha">Senha</string>
+    <string name="coloque_o_seu_email">coloque o seu email</string>
+    <string name="entrar">Entrar</string>
+    <string name="precisa_de_ajuda">Precisa de ajuda?</string>
+    <string name="novo_por_aqui_inscreva_se_agora">Novo por aqui? Inscreva-se agora</string>
+    <string name="informe_seu_email_e_senha_para_iniciar_a_assinatura">Informe seu email e senha para iniciar a
+        assinatura
+    </string>
+    <string name="informe_seu_email_e_senha_npara_iniciar_a_assinatura">Informe seu email e senha \npara iniciar a
+        assinatura
+    </string>
+    <string name="crie_sua_conta">Crie sua conta.</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="adsasdas">adsasdas</string>
+</resources>

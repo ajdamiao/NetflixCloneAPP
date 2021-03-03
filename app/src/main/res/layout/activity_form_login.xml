@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        tools:context=".FormLogin"
+        android:background="@color/black">
+
+
+        <androidx.appcompat.widget.Toolbar
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:navigationIcon="@drawable/ic_netflix_official_logo"
+                android:layout_marginStart="20dp"/>
+
+        <EditText
+                android:id="@+id/edit_email"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="150dp"
+                android:background="@drawable/edit_text_login"
+                android:padding="20dp"
+                android:layout_marginStart="20dp"
+                android:layout_marginEnd="20dp"
+                android:hint="@string/email"
+                android:textColorHint="@color/white"
+                android:maxLines="1"
+                android:inputType="textEmailAddress"
+                android:textColor="@color/white"
+                android:textSize="18sp"
+        />
+
+        <EditText
+                android:id="@+id/edit_senha"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/edit_text_login"
+                android:padding="20dp"
+                android:layout_marginStart="20dp"
+                android:layout_marginEnd="20dp"
+                android:hint="@string/senha"
+                android:textColorHint="@color/white"
+                android:maxLines="1"
+                android:inputType="numberPassword"
+                android:textColor="@color/white"
+                android:textSize="18sp"
+        />
+
+        <TextView
+                android:id="@+id/mensagem_erro"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=""
+                android:textColor="@color/orange"
+                android:layout_marginStart="25dp"
+                android:layout_marginEnd="20dp"
+                android:textSize="18sp"
+                android:textStyle="bold"
+        />
+        <Button
+                android:id="@+id/bt_entrar"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/entrar"
+                android:textAllCaps="false"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                android:backgroundTint="@color/red"
+                android:layout_marginStart="20dp"
+                android:layout_marginEnd="20dp"
+                android:layout_marginTop="30dp"
+                android:padding="15dp"
+        />
+
+        <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/precisa_de_ajuda"
+                android:textColor="@color/white"
+                android:textStyle="bold"
+                android:layout_marginTop="30dp"
+                android:layout_gravity="center"
+        />
+
+        <TextView
+                android:id="@+id/txt_tela_cadastro"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/novo_por_aqui_inscreva_se_agora"
+                android:textStyle="bold"
+                android:layout_marginTop="30dp"
+                android:textSize="20sp"
+                android:textColor="@color/white"
+                android:layout_gravity="center"
+        />
+
+
+
+</LinearLayout>
