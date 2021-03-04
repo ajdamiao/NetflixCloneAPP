@@ -16,6 +16,7 @@
             android:layout_height="wrap_content"
             android:background="?attr/colorPrimary"
             android:theme="?attr/actionBarTheme"
+            app:navigationIcon="@drawable/ic_netflix_official_logo"
             android:minHeight="?attr/actionBarSize"
             android:backgroundTint="@color/white"
             android:layout_marginStart="20dp"

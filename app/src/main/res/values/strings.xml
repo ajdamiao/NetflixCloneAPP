@@ -15,4 +15,19 @@
     <string name="crie_sua_conta">Crie sua conta.</string>
     <string name="cadastrar">Cadastrar</string>
     <string name="adsasdas">adsasdas</string>
+    <string name="deslogar">Deslogar</string>
+    <string name="the_witcher">The Witcher</string>
+    <string name="o_mutante_geralt_de_r_via_um_ca_ador_de_monstros_que_luta_para_encontrar_seu_lugar_num_mundo_onde_as_pessoas_muitas_vezes_s_o_mais_perversas_que_as_criaturas_selvagens_estrelando_henry_cavill_anya_chalotra_freya_allan_cria_o_lauren_schmidt_hissrich">
+        O mutante Geralt de Rívia é um caçador de monstros que luta para encontrar seu lugar num mundo onde as pessoas
+        muitas vezes são mais perversas que as criaturas selvagens. Estrelando:Henry Cavill,Anya Chalotra,Freya Allan
+        Criação:Lauren Schmidt Hissrich
+    </string>
+    <string name="o_mutante_geralt_de_r_via_um_ca_ador_de_monstros_que_luta_para_encontrar_seu_lugar_num_mundo_onde_as_pessoas_muitas_vezes_s_o_mais_perversas_que_as_criaturas_selvagens">
+        O mutante Geralt de Rívia é um caçador de monstros que luta para encontrar seu lugar num mundo onde as pessoas
+        muitas vezes são mais perversas que as criaturas selvagens.
+    </string>
+    <string name="estrelando_henry_cavill_anya_chalotra_freya_allan_cria_o_lauren_schmidt_hissrich">Estrelando:Henry
+        Cavill,Anya Chalotra,Freya Allan Criação:Lauren Schmidt Hissrich
+    </string>
+    <string name="mais_filmes_e_series">Mais Filmes e series</string>
 </resources>
